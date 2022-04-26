@@ -694,6 +694,9 @@ header {
     .card_text span{
         font-size: 11px;
     }
+    .menu1_text span{
+        font-size:15px;
+    }
     
 }
 
